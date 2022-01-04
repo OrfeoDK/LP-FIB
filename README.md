@@ -1,4 +1,4 @@
 # LP-FIB
-Este repositorio contiene las dos prácticas realizadas en la asignatura de Lenguajes de Programación (LP).
+Este repositorio contiene las dos prácticas realizadas en la asignatura de Lenguajes de Programación (LP) en la FIB-UPC.
 
 ***Autor: OrfeoDK***
