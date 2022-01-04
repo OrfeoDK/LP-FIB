@@ -96,4 +96,4 @@ python3 logo3d.py nom_programa.l3d nom_procedimiento param1 param2 etc.
 
 ## Autor
 
-- Moisés Campillo
+- OrfeoDK
